@@ -16,7 +16,7 @@ I was provided with a templaye python file with the basic `PyChain` ledger struc
 
 The code file:
 
-[Pychain - Blockchain](Code/pychain.py)
+[Pychain - Blockchain](Starter_Code/pychain.py)
 
 ---
 
